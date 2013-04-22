@@ -4,9 +4,11 @@ This is a simple carousel implementation for AngularJS ng-repeats.
 
 For best performances on mobile devices, it uses CSS 3D transforms (GPU accel).
 
-It handles click and touch events.
+It handles click and touch events and runs only on webkit at the moment.
 
 Demo : http://revolunet.github.io/angular-carousel
+
+Comments and contributions welcome :)
 
 Proudly brought to you by the [@revolunet](http://twitter.com/revolunet) team.
 
